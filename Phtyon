@@ -1,0 +1,2 @@
+a=int(input())
+Print('positive') if(a%2==0)else print('negative')
